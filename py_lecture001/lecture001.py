@@ -1,12 +1,8 @@
 n = 'Demchuk\'Dima'
+a = 6
+b = 1.23
+
+print(f"{n} - {a} - {b}")
 
 
-print(n)
-
-"""
-print(n)
-print(n)
-print(n)
-print(n)
-"""
-print(n)
+print("{} - {} - {}".format(n, a, b))
