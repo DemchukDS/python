@@ -1,3 +1,3 @@
-n = 1.89
+n = 'Ramchuk\'Dima' #Вывод внутри строки ковычек с помощью \
 
-print(type(n))
+print(n)
