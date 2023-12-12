@@ -1,3 +1,12 @@
-n = 'Ramchuk\'Dima' #Вывод внутри строки ковычек с помощью \
+n = 'Demchuk\'Dima'
 
+
+print(n)
+
+"""
+print(n)
+print(n)
+print(n)
+print(n)
+"""
 print(n)
